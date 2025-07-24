@@ -356,6 +356,6 @@ If you have any questions or need help:
 - [ ] Custom quiz templates
 - [ ] Integration with learning platforms
 
-**Made with ❤️ by Harshal Loke**
+**Made with ❤️ by Harshal Loke **
 
 *Star ⭐ this repository if you find it helpful!*
