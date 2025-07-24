@@ -339,9 +339,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or need help:
 
-- 📧 Email: your-email@example.com
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/ai-quiz-master/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/ai-quiz-master/discussions)
+- 📧 Email: your-lokeharshal2004@gmail.com
+- 🐛 Issues: [GitHub Issues](https://github.com/Harshalloke/ai-quiz-master/issues)
+- 💬 Discussions: [GitHub Discussions](https://github.com/Harshalloke/ai-quiz-master/discussions)
 
 ## 🗺️ Roadmap
 
