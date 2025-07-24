@@ -4,7 +4,7 @@ import { useState, useEffect } from 'react';
 import { useRouter } from 'next/navigation';
 import QuizQuestion from '../../components/QuizQuestion';
 import { QuizResult } from '../../lib/types';
-import { Trophy, RotateCcw, Home, Clock, Target } from 'lucide-react';
+import { Trophy, RotateCcw, Home } from 'lucide-react';
 import Link from 'next/link';
 
 export default function Result() {
