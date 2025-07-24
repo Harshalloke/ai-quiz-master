@@ -15,7 +15,7 @@ A modern, AI-powered quiz application built with Next.js that generates personal
 
 ## 🚀 Live Demo
 
-**[View Live Application](https://your-app-name.vercel.app)**
+**[View Live Application](https://ai-quiz-master-delta.vercel.app/)**
 
 ## 🛠️ Tech Stack
 
